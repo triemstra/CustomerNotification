@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerNotification.DataAccess\CustomerNotification.DataAccess.csproj" />
+    <ProjectReference Include="..\FormatterPlugins\FormatterPlugins.csproj" />
+  </ItemGroup>
+
+</Project>
