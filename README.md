@@ -2,7 +2,7 @@
 
 Customer Notifications Application 
 
-A Plugig device to render data in diferent data formats such as: JSON, CSV, XML, etc, via different channels (Email, FTP, HTTP, etc).
+A Pluggable and easily EXTENSIBLE application to render data in diferent data formats such as: JSON, CSV, XML, etc, via different channels (Email, FTP, HTTP, etc).
 
 
 To Run the App
